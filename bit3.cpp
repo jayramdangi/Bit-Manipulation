@@ -1,5 +1,5 @@
-// in this slide we will learn about XOR opration which is distinct =1, same=0;
-
+// in this slide we will learn about XOR opration which is distinct =1, same=0 i.e  0^1 = 1  1^0 = 1  0^0 = 0 1^1 =0
+// two important properties of XOR is a^a =0  and a^0 = a 
 
 #include<bits/stdc++.h>
 using namespace std; 
